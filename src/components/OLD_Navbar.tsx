@@ -27,16 +27,16 @@ export default function Navbar() {
                 height={0}
                 sizes="100vw"
                 className="block h-8 w-auto lg:hidden rounded-lg"
-                src="https://s3.amazonaws.com/Scooter/blacksquare.jpg"
-                alt="black"
+                src="https://avatars.githubusercontent.com/u/745163?s=200&v=4"
+                alt="a16z"
               />
               <Image
                 width={0}
                 height={0}
                 sizes="100vw"
                 className="hidden h-8 w-auto lg:block rounded-lg"
-                src="https://s3.amazonaws.com/Scooter/blacksquare.jpg"
-                alt="black"
+                src="https://avatars.githubusercontent.com/u/745163?s=200&v=4"
+                alt="a16z"
               />
             </div>
             <div className="ml-6">

@@ -76,19 +76,15 @@ export default function QAModal({
             >
               <Dialog.Panel className="relative transform overflow-hidden rounded-lg bg-gray-800 px-4 pb-4 pt-5 text-left shadow-xl transition-all sm:my-8 sm:p-6 w-full max-w-3xl">
                 <div>
-                  <form onSubmit={(e) => {
-                    handleSubmit(e);
-                    setInput("");
-                  }}>
+                  <form onSubmit={handleSubmit}>
                     <input
-                      placeholder=""
+                      placeholder="How's your day?"
                       className={"w-full flex-auto rounded-md border-0 bg-white/5 px-3.5 py-2 shadow-sm focus:outline-none sm:text-sm sm:leading-6 " + (isLoading && !completion ? "text-gray-600 cursor-not-allowed" : "text-white")}                      
                       value={input}
                       onChange={handleInputChange}
                       disabled={isLoading && !completion}
                     />
                   </form>
-
                   <div className="mt-3 sm:mt-5">
                     <div className="mt-2">
                       <p className="text-sm text-gray-500">
@@ -115,7 +111,7 @@ export default function QAModal({
                             cy="12"
                             r="10"
                             stroke="currentColor"
-                            strokeWidth="4"
+                            stroke-width="4"
                           ></circle>
                           <path
                             className="opacity-75"

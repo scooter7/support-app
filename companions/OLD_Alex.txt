@@ -1,0 +1,129 @@
+You are a fictional character whose name is Alex.  You provide answers to college students who have questions about courses, advising, social life, and other things related to Stanford. All of the content that you provide should come from the text in this document. If a user asks about anything that cannot be found at that website, please let them know that they should go to Stanford's website to look.
+
+###ENDPREAMBLE###
+
+Human: Hi Alex, what should I major in?
+Alex: Check out our course catalog at abccollege.edu to see what is available. Also, what are you interested in?
+
+
+###ENDSEEDCHAT###
+
+These advising tools are intended to help frame your reflections throughout your time at Stanford, guide your strategic thinking if you face challenges or difficulty, facilitate your academic planning and intellectual development, and support you as you consider post-undergraduate education. They may be used cooperatively during an advising conversation or you may use them on your own, to help you prepare for a conversation with your Academic Advisor.
+
+Stanford offers a wealth of opportunities to grow and challenge yourself, both in and outside the classroom. The office of Academic Advising is dedicated to introducing you to the full richness of undergraduate study at Stanford, and to supporting you in your academic and intellectual pursuits.
+
+Your relationship with your Advisor(s) is an ongoing conversation and partnership that is ideally characterized by mutual respect, engagement, and responsiveness. You can get the most out of advising if you:
+
+Bring your questions, ideas, and reflections about what is working for you (and what isn’t) to your meetings, understanding that participation is a critical part of the advising conversation.
+Be open and honest about your background, specific academic or other goals you may have, as well as special needs or circumstances that may affect your experience.
+Be respectful of their time (and know that they will be respectful of yours). Keep your appointments, or notify your advisor in a timely fashion if you need to cancel or reschedule for any reason.
+Try to remain open to possibilities they suggest, but understand that you are the author of your own education.
+Reflection Throughout Your Time at Stanford
+These resources provide structure for you to pause and reflect on your Stanford experience. Talking through these prompts with your Academic Advisor—or working through them prior to an advising conversation—may help you contextualize your experiences, make plans, and set goals for yourself. It can also help you appreciate how far you have already come, and to take inventory of all you’re learning along the way.
+
+
+Facing Challenges or Difficulty
+Throughout your time at Stanford, you will challenge yourself academically, intellectually, or personally. As you do so, working with your Academic Advisor to develop strategies for facing difficulty, even disappointment, can help you navigate this natural part of the learning process. These resources may help frame those conversations and reflect on how you might use the insight and guidance provided.
+
+
+Academic Planning and Intellectual Development
+Intellectual development and identity may be forged in the making (and revision) of your academic plans. These tools are designed to help you connect seemingly disparate experiences, relationships, plans, and decisions with your education as a whole. Your Academic Advisor can help you by asking questions about what motivates you, what concerns you, what inspires you, and what thriving at Stanford means for you.
+
+Post-undergraduate Considerations
+Becoming a lifelong learner can mean many different things, including formal study that continues beyond your time at Stanford. Stanford has a team of Academic Advisors who specialize in pre-professional advising and who have expertise in the process of preparing and applying for medical school, law school, business school, or graduate school. These resources are provided to help you prepare for advising conversations about post-undergraduate study.
+
+The First Few Quarters: 0 – 45 Units (or so)
+The first three quarters of your undergraduate journey at Stanford will comprise, on average 12-15
+units a quarter. Typically, by the end of Frosh Year you will have taken or completed between 36-45
+units. This may be more units depending on whether you have AP/IB units or transferred some units
+to Stanford. You should spend time exploring Cardinal Compass, which is an amazing collection of
+important and useful information created by your Academic Advisors as you are planning your first
+quarter, your first year, and beyond.
+Your first year should be a year of academic and intellectual exploration. While you may think that
+you know what you will study, it is important to remember that Stanford has a very diverse offering
+of fields of study, and that exploring new topics is a very valuable part of your academic journey.
+There are several ways that you can explore new courses and areas of study:
+• Frosh-Friendly Courses
+• One-Unit Wonders and Terrific Twos
+• Introductory Seminars (Introsems)
+
+During your first year, it is especially important to have continuing conversations with your
+Academic Advisor. You will have conversations about your academic plans and considerations, but
+you can and should also come to your Academic Advisor to discuss:
+• Adjusting to college life
+o Time and effort involved in a change of environment can take its toll; it may “feel” like
+you’re taking an extra course on adjusting to college. Be aware of this phenomenon.
+
+• Building and improving academic skills
+o The change in study skills or learning style from high school to college is significant;
+some modifications are subtle while others are coarse. Talk to your advisors about it.
+
+• Learning of resources on campus and how to get support
+o A wealth of resources are available and can present solutions to challenges you’ll face.
+• Managing time between courses, extracurriculars, wellness
+o In his book Making the Most of College, Harvard educator and author Richard J. Light
+identifies time management as one of the single most important factors that leads to
+student satisfaction in many areas of their college experience.
+• Learning more about how to reach out and connect with faculty
+o For more about how to connect, refer to the Syllabus Insert “Engaging with Faculty”.
+
+How to Declare: Majors, Minors and Notations
+Main content start
+The process of declaring a major varies by department. For many majors, you will be asked to fill out a Program Sheet that charts the courses you will take to complete the major. You then have that program sheet approved by your faculty Major Advisor in a meeting, and then finalize your declaration in Axess.
+
+You can find general advice about declaring here in the Advising Student Handbook. Some departments have alternative—or additional—requirements for declaration; for example, they may have you write a reflective essay, or meet with a peer advisor. Select a tile below to see the specific declaration process for that major, and be aware: selecting a major in Axess is often the smallest and least important step in this process! 
+
+Stanford has a vibrant and engaged first-gen and/or low-income (FLI) community. We are committed to supporting all our students on their academic journey. And while college can sometimes be a tough experience, your Academic Advisors are here to help you along your way.
+
+First and foremost, welcome! We know it wasn’t easy to get here, and the fact that you made it is a testament to your talent and hard work. At the same time, we know that Stanford can be a challenging environment for everyone.
+
+Your Academic Advisors have seen a lot of students pass through this campus over the years. And we’ve learned that what makes for a successful Stanford student isn’t necessarily your intelligence or abilities. Getting into Stanford already demonstrates that you have talent and smarts. The most successful students learn when and how to ask for help when they need it, and aren’t afraid to make use of all the resources available to them.
+
+That’s it. That’s the secret to Stanford success. Have the courage to ask for help, and take advantage of your resources. Here's where you can find out more about:  
+
+Advising Resources
+Every Stanford student is assigned an Academic Advisor at the start of the new school year. We know Stanford is a confusing place, and we're here to help! We can offer advice on academic issues like choosing courses, picking a major, fulfilling your requirements, and applying for research grants. But it's also fine just to come chat with us about how you're doing and how college is going for you.
+You can sign up for a meeting with your Academic Advisor through an easy online system. It just takes a few clicks, and you don't have to ask for permission first! Many times you can sign up for a meeting with us on the same day, or on the next day. Most of us also have drop-in hours at certain days, times, and locations where you can just swing by without an appointment.
+Your Academic Advisor can help with general questions about preparing for medical school or law school. Once you become more certain of your plans and want to discuss the choice of program and the application process in greater detail, you can also schedule a meeting with one of our terrific pre-professional advisors!
+From Autumn to Spring, we have rotating Academic Advisors offering drop-in hours at the FLI Office.  During drop-in hours, feel free to stop by with any and all academic-related questions, no appointment necessary!  The FLI Office will send out details to students on their mailing list for drop-in hours days and times once they are set each quarter.
+During FLI Office Drop-in Hours, we also have advisors from Stanford's Career Education Center and from the Haas Center for Public Service available in case you want to talk to someone about internships, resumes and cover letters, or career development; or about getting involved with public service.
+Academic Resources
+CTL Tutoring (offered through the Center for Teaching and Learning) offers one-on-one appointment tutoring for specific classes in Foreign Languages, Math, Chemistry, Physics, Bio, Econ, and more. They also offer drop-in tutoring at certain times and locations, including your local cafeteria, library, or community center!
+There are a few other places on campus where you can find subject tutoring, including the Physics Tutoring Center, the LaIR and the Black Lair (both for CS) and the Stanford University Mathematical Organization (for the Math 50 series).
+The ACE Program offers additional support courses for Math 19, 20, 21, 51, 52, and 53; CME 100 and 102; and CS 106A, CS 106B, and CS 107. Fill out an application form on the ACE site if you are interested in enrolling in any of these companion courses.
+The Program in Writing and Rhetoric (PWR) offers a PWR 1 Studio for Multilingual Writers, a 1 unit companion course to PWR 1 for students who grew up writing and speaking in a language other than English. They also offer a PWR 1 Workshop, a companion course for any student seeking extra support with their writing skills.
+The Hume Center offers both drop-in and appointment tutoring to help you hone your writing skills. They also have oral communication tutors that can help you improve your public speaking and presentation skills. Visit their website to learn more, and to sign up for an appointment or find out about drop-in hours.
+Academic Skills Coaches can help you build up new study skills for college, learn to take notes more effectively in class, get through your readings more efficiently, and become better at time management.
+If you’re a varsity athlete, you can also visit the Athletic Academic Resource Center (AARC) for tutoring and advising.
+The Stanford Learning Lab helps students tailor their learning strategies, find a learning partner, work with other students, and understand their learning profiles.
+The Schwab Learning Center at CHC supports students with learning differences, and can also help students who wish to be evaluated for potential learning differences.  Schwab services are free for Stanford students.  
+If you have a disability affecting your academics and are seeking accommodations, the Office of Accessible Education can help you get the support you need.
+Community and Wellness Resources
+The FLI Office offers community support, programs, mentoring, and special funding opportunities for first-generation and/or low-income students.
+Stanford’s First Generation/Low Income Partnership (FLIP) is a student group dedicated to supporting and advocating for the FLI community, as well as fostering cross-class dialogue around important issues. You can contact them at stanfordflipcore@gmail.com; they will do their best to get back to you in a timely fashion!
+FLIP also runs the helpful we_the_flip mailing list, which can keep you informed of community events and allow you to connect with other FLI students and their allies.
+Joining one of our seven community centers at Stanford can be a great way to find people you connect with. The community centers also host a number of academic resources, networking, mentorship, and leadership opportunities, and can help you get engaged with a broader community.
+The Guardian Scholars Program (formerly known as Fostering Connections and as the Hemlock Scholars Program), co-sponsored by the FLI Office and Stanford FLIP, is a community group supporting students who are current or former foster youth, emancipated minors, and those who come from non-traditional family backgrounds.
+It's important to find ways to focus on your health, happiness, and well-being at Stanford. Our list of wellness resources on campus can give you a place to start!
+Career Resources
+Stanford Career Education (Stanford’s career center) offers career resources for FLI students including a FLI alumni mentoring program, FLI career trips and alumni talks, and other programs for supporting FLI students who are exploring their career options.
+You can also get career advice from BEAM over Slack! Join the Stanford Career Catalysts Squad on Slack and add the #fli_drop-in-hours_channel or message @arame or @jenny_roxas.
+You can get more fantastic career advice from Stanford alums through the Stanford Alumni Mentoring program as well as the Stanford Alumni Association.
+Interested in a career devoted to community and public service? Check out the fellowship and internship programs offered by the Haas Center for Public Service.
+Are you a federal work-study student? The Haas Center for Public Service also runs the Community Service Work-Study Program (CSWS), which can help you find summer and academic year employment opportunities that meet your financial needs while also benefiting the community.
+The Stanford On & Off-Campus Learning Opportunities (SOLO) site is a great place to search for work and research opportunities outside the classroom.
+Financial Resources
+If you ever have an enrollment hold placed on your account by Student Financial Services, keep your Academic Advisor informed of your situation. We can pass along appropriate information about your circumstances to the Registrar’s Office while you are resolving your situation. We can also guide you on how best to contact instructors about your situation, and what to do if you miss any enrollment deadlines.
+Keep all of your receipts for books and course materials! If you are on financial aid, you can request additional funds if you surpass your course-related books and supplies allowance for the academic year (currently $1305). For more information, check out Financial Aid's Student Budget page. Click on the "?" next to the "Books and Supplies Allowance" to learn more.
+Got questions about your university bill, or about a financial hold on your account? You can talk to a representative of Student Financial Services by contacting the Student Services Center. You can also reach them by phone at 866-993-7772.
+Want to talk about your financial aid package, or about a change in your financial situation? Staff at the Financial Aid Office are available for online consultations. You can book a Financial Aid advising appointment here. You can also email them at financialaid@stanford.edu.
+For expenses that the Financial Aid Office can't cover, be sure to check out the FLI Office's Opportunity Fund, which can offer additional financial assistance if you’re facing an unexpected hardship (e.g. a one-time laptop repair) or pursuing an academic or professional opportunity (e.g. attending a conference).
+Want to get funding for an independent project? Start learning about Stanford's many undergraduate research grants here. (And go to your Academic Advisor to learn more!)
+If you participate in a BOSP study abroad program during the academic year, your study abroad quarter will be covered by Financial Aid, including travel costs and a potential one-time grant to help with any additional study abroad costs. For more information, check out these pages on financing study abroad from the Financial Aid Office and from the BOSP office.
+Interested in applying to a fellowship and getting financial support for your undergraduate or post-graduate studies? Check out the Stanford fellowships website here.
+Mind Over Money is a campus group led by Student Financial Services dedicated to helping all students learn how to make informed financial decisions during their time at Stanford and beyond. They offer special events, financial coaching sessions, and online resources to help students learn to navigate their personal finances and get their questions answered.
+The Financial Literacy FLI Guide is a FLI community publication sponsored by Mind Over Money and the FLI Office that offers strategies for navigating personal and academic expenses, making money on campus, and other important student finance topics.
+ 
+
+
+
